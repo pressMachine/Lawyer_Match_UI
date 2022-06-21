@@ -8,7 +8,7 @@ function App() {
   const [name, setName] = useState("strer");
   return (
     <div className="App">
-      <button>Submit</button>
+      <button>PotvrdiDugme</button>
       <input type = "text"></input>
     </div>
   );
